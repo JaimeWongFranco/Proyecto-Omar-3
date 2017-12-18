@@ -9,6 +9,8 @@ public class conectar {
 		public Connection conexion()
 		{
 			try {
+				
+				//omar espinoza
 				Class.forName("com.mysql.jdbc.Driver");
 				cc=DriverManager.getConnection("jdbc:mysql://localhost/supermercado","root","");
 				
