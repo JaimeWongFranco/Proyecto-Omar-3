@@ -20,6 +20,4 @@ public class conectar {
 			return cc;
 		}
 		
-
-	//sd
 }
