@@ -10,7 +10,7 @@ public class conectar {
 		{
 			try {
 				
-				//omar espinoza
+				//omar espinoza ..
 				Class.forName("com.mysql.jdbc.Driver");
 				cc=DriverManager.getConnection("jdbc:mysql://localhost/supermercado","root","");
 				
