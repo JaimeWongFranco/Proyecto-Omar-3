@@ -19,5 +19,9 @@ public class conectar {
 			}
 			return cc;
 		}
+<<<<<<< HEAD
 		//JESUSDF
+=======
+		//sd
+>>>>>>> 1da8f2835d3b5669337cdb40e8e991080e2dc940
 }
